@@ -1,1 +1,3 @@
 # Hello-World
+I'm Terna Ugoh currently new to learning Android programming...
+Let's Go!
